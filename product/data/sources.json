@@ -1,0 +1,16 @@
+{
+  "invoices": [
+    {"id":"INV-1042","account":"Northstar Cafe","action":"Follow up on overdue invoice","owner":"Maya","due":"2026-09-28","priority":"HIGH"},
+    {"id":"INV-1047","account":"Harbor Studio","action":"Confirm payment date","owner":"Eli","due":"2026-09-30","priority":"MEDIUM"}
+  ],
+  "support": [
+    {"id":"TKT-221","account":"Cedar Works","action":"Reply with migration steps","owner":"Maya","due":"2026-09-29","priority":"HIGH"}
+  ],
+  "projects": [
+    {"id":"PRJ-88","account":"Atlas Field","action":"Review launch checklist","owner":"Jon","due":"2026-10-01","priority":"MEDIUM"}
+  ],
+  "sales": [
+    {"id":"LEAD-317","account":"Pine & Co","action":"Send discovery recap","owner":"Eli","due":"2026-09-28","priority":"HIGH"},
+    {"id":"LEAD-322","account":"Orchid Labs","action":"Resolve missing next-step mapping","owner":"Jon","due":"","priority":""}
+  ]
+}
