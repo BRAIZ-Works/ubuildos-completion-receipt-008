@@ -1,0 +1,20 @@
+{
+  "schema": "UBUILDOS_PUBLIC_PROJECTION_V1",
+  "release": "Day-07 v1.0.2 Safe-Change successor",
+  "product": "Weekly Operations Follow-Up Board™",
+  "repository": "https://github.com/BRAIZ-Works/ubuildos-completion-receipt-008",
+  "live_url": "https://braiz-works.github.io/ubuildos-completion-receipt-008/",
+  "candidate_predecessor_sha256": "598b94b3232a13b25c0e200613692aa8a38b1385fd9aa7cd1c3341900bc44687",
+  "public_claim_boundary": "synthetic public-safe static proof; no live integrations, automated actions, production-scale or business-outcome claims",
+  "files": [
+    {"path":"PRIVACY.md","bytes":245,"sha256":"c83a9d60ffd6bbc2bbb5772793eaec49cd45dc43b4ca80726d7ece618b2393df"},
+    {"path":"README.md","bytes":1663,"sha256":"0f4e552823e571a7add34e690b1cc0ee9548d412f3b5450b765e5cd52eb09711"},
+    {"path":"RIGHTS_AND_USE.md","bytes":255,"sha256":"55ca73dff13dfa509d82b0ad39ed93b0d59ea58fc83376d565f019192bf6f432"},
+    {"path":"SECURITY.md","bytes":521,"sha256":"532547e1b99136e8edf28b1b3e662111c6f633af2653e0d78e4d79f54dad3716"},
+    {"path":"distribution/UBUILDOS_DAY07_LINKEDIN_CAROUSEL_v1.0.0.pdf","bytes":34507,"sha256":"7836ae39f0dda8c3d662903fb5155c2eb59fee7b6fe0770904a2421a892f305f"},
+    {"path":"product/app.js","bytes":3095,"sha256":"5abd711115086da70293f3749f2298d7e867c60337b12c7852d9a896e36aa430"},
+    {"path":"product/data/sources.json","bytes":881,"sha256":"219455c7b5536321d1a3e5a600f4b2ea3f73eaf4f23f52cff5ac19bd0e1d5eca"},
+    {"path":"product/index.html","bytes":1074,"sha256":"7b9bc2fb79d17fe88146711ac406560bcfce979d9cee5b4bccc6510dee5733e4"},
+    {"path":"product/styles.css","bytes":2711,"sha256":"de7eb49ba08f2a1e2ab01aa6ebd67a7fe44103155f153617c5d8976a558c6632"}
+  ]
+}
